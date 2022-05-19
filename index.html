@@ -222,7 +222,7 @@
         function drawMessage() {
             context.fillStyle = "#97e2f8";
             context.font = '40px Arial';
-            context.fillText(message, canvas.width / 5 * 2 - 5, canvas.height - canvas.height / 6);
+            context.fillText(message, canvas.width / 5 * 2 - (canvas.width < 1000 ? 100 : 15), canvas.height - canvas.height / 6);
             if (message2.length > 0) {
                 messageTime++;
                 if (messageTime > 80) {
