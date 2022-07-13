@@ -556,7 +556,7 @@ background: rgba(255, 255, 255, 0.4);
     min-height: 640px;}
 .acquaint-top-image{ background: url(../images/main/acquaint.jpg) no-repeat 0px 0px;
     background-size: cover;
-    min-height: 640px;}
+    min-height: 634px;}
 .progress {
     height: 10px;
     /* margin-top: 1em; */
@@ -653,22 +653,22 @@ span.banner-icon {
 .blog-br-going {
     background: url(../images/main/separate2love/2.jpg) no-repeat 0px 0px;
     background-size: cover;
-    min-height: 700px;
+    min-height: 750px;
 }
 .blog-br-play {
     background: url(../images/main/separate2love/4.jpg) no-repeat 0px 0px;
     background-size: cover;
-    min-height: 700px;
+    min-height: 670px;
 }
 .blog-br-invite {
     background: url(../images/main/separate2love/6.jpg) no-repeat 0px 0px;
     background-size: cover;
-    min-height: 900px;
+    min-height: 954px;
 }
 .blog-gr {
     background: url(../images/main/promise.jpg) no-repeat 0px 0px;
     background-size: cover;
-    min-height: 600px;
+    min-height: 604px;
 }
 .blog-gr-separate {
     background: url(../images/main/separate2love/1.jpg) no-repeat 0px 0px;
@@ -678,12 +678,12 @@ span.banner-icon {
 .blog-gr-reunion {
     background: url(../images/main/separate2love/3.jpg) no-repeat 0px 0px;
     background-size: cover;
-    min-height: 736px;
+    min-height: 900px;
 }
 .blog-gr-hand-in-hand {
     background: url(../images/main/separate2love/5.jpg) no-repeat 0px 0px;
     background-size: cover;
-    min-height: 840px;
+    min-height: 746px;
 }
 .left-side {
     padding-right: 52px;
